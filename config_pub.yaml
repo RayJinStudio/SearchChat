@@ -1,0 +1,6 @@
+config:
+  openai_api_key: ""
+  openai_api_base: "https://api.openai.com/v1"
+  WOLFRAMALPHA_API_ID: ""
+  BING_API_KEY: ""
+  
